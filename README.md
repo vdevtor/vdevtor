@@ -1,6 +1,7 @@
 
 ![ezgif com-resize](https://user-images.githubusercontent.com/70502052/93723084-e8924e00-fb71-11ea-803e-fc82bbf51424.gif)
-### Hi there 👋 My name is Vitor Soares Silva <p>I am brazilian who dreams of being a super hero ⚡</p>
+### Hi there 👋 My name is Vitor Soares Silva
+<p>I am brazilian who dreams of being a super hero ⚡</p>
 <p>since it's not possible 🤔, let's focus on becoming a <b>super "coder"</b></p>
 <h5>Im gratuated at system analysis and development.</h5>
 <p><b>My skill level = Junior/Trainee</b> // you can find an accurate list of my skills on my "linkedin", and some of my work as an english teacher at wizard on my instagram</p>
