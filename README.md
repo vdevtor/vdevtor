@@ -4,7 +4,7 @@
 <p>I am brazilian who dreams of being a super hero ⚡</p>
 <p>since it's not possible 🤔, let's focus on becoming a <b>super "coder"</b></p>
 <h5>Im gratuated at system analysis and development.</h5>
-<p><b>My skill level = Junior/Trainee</b> // you can find an accurate list of my skills on my "linkedin", and some of my work as an english teacher at wizard on my instagram</p>
+<p><b> // you can find an accurate list of my skills on my "linkedin", and some of my work as an english teacher at wizard on my instagram</p>
 <p><a target="_blank" href="https://www.linkedin.com/in/vitorsosilva/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a></p>
