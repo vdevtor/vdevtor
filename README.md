@@ -29,12 +29,6 @@ some of my skills are: <br>
 - Compose
 - GPS
 
-
-  
-
-
-</p> <p><b>You can find a detailed list of my skills on my LinkedIn:</b></p> <p><a target="_blank" href="https://www.linkedin.com/in/vitorsosilva/"> <img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" /> </a></p> <p><a target="_blank" href="https://www.instagram.com/vitorthemyth/"> <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" /> </a></p> <p><a target="_blank" href="mailto:vitaoosp@gmail.com"> <img align="left" alt="Gmail" width="22px" src="https://www.svgrepo.com/download/217146/gmail.svg" /> </a></p>
-
 <!--
 **vdevtor/vdevtor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
